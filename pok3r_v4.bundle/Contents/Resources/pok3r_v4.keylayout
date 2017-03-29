@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.1.161 on 2017-03-29 at 14:49 (GMT+2)-->
-<keyboard group="10" id="21109" name="pok3r_v4" maxout="1">
+<!--Last edited by Ukelele version 3.2.1.161 on 2017-03-29 at 15:20 (GMT+2)-->
+<keyboard group="126" id="-4184" name="pok3r_v4" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
 	</layouts>
@@ -372,8 +372,8 @@
 			<key code="126" output="&#x001E;"/>
 		</keyMap>
 		<keyMap index="3">
-			<key code="0" output="“"/>
-			<key code="1" output="”"/>
+			<key code="0" output=""/>
+			<key code="1" output=""/>
 			<key code="2" output=""/>
 			<key code="3" output="["/>
 			<key code="4" output=""/>
@@ -411,10 +411,10 @@
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output=""/>
 			<key code="38" output=""/>
-			<key code="39" output="^"/>
+			<key code="39" output="&#x003C;"/>
 			<key code="40" output=""/>
 			<key code="41" output="…"/>
-			<key code="42" output="\"/>
+			<key code="42" output="&#x003E;"/>
 			<key code="43" output="&#x003C;"/>
 			<key code="44" output="–"/>
 			<key code="45" output="}"/>
@@ -524,10 +524,10 @@
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output=""/>
 			<key code="38" output=""/>
-			<key code="39" output="‘"/>
+			<key code="39" output="“"/>
 			<key code="40" output=""/>
 			<key code="41" output=""/>
-			<key code="42" output="’"/>
+			<key code="42" output="”"/>
 			<key code="43" output="≤"/>
 			<key code="44" output="—"/>
 			<key code="45" output=""/>
@@ -539,14 +539,30 @@
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
 			<key code="66" output="&#x001D;"/>
+			<key code="67" output=""/>
+			<key code="69" output=""/>
 			<key code="70" output="&#x001C;"/>
 			<key code="71" output="&#x001B;"/>
 			<key code="72" output="&#x001F;"/>
+			<key code="75" output=""/>
 			<key code="76" output="&#x0003;"/>
 			<key code="77" output="&#x001E;"/>
+			<key code="78" output=""/>
 			<key code="79" output="&#x0010;"/>
 			<key code="80" output="&#x0010;"/>
+			<key code="81" output=""/>
+			<key code="82" output=""/>
+			<key code="83" output=""/>
+			<key code="84" output=""/>
+			<key code="85" output=""/>
+			<key code="86" output=""/>
+			<key code="87" output=""/>
+			<key code="88" output=""/>
+			<key code="89" output=""/>
+			<key code="91" output=""/>
+			<key code="92" output=""/>
 			<key code="96" output="&#x0010;"/>
 			<key code="97" output="&#x0010;"/>
 			<key code="98" output="&#x0010;"/>
@@ -713,12 +729,12 @@
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="l"/>
 			<key code="38" output="j"/>
-			<key code="39" output="&#x003C;"/>
+			<key code="39" output="&#x0027;"/>
 			<key code="40" output="k"/>
-			<key code="41" output="č"/>
-			<key code="42" output="&#x003E;"/>
+			<key code="41" output=";"/>
+			<key code="42" output="\"/>
 			<key code="43" output=","/>
-			<key code="44" output="-"/>
+			<key code="44" output="/"/>
 			<key code="45" output="n"/>
 			<key code="46" output="m"/>
 			<key code="47" output="."/>
