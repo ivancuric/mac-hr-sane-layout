@@ -7,22 +7,13 @@ That includes keeping the `altGr` layer and the Croatian diacritical characters 
 The standard and shift layers are the same as on a Croatian PC layout. The `ctrl` and `cmd` layer behave like the en-us keyboard, including the switched `Z` and `Y` keys for easier undo / redo.
 The `alt/opt` and the `alt/opt + shift` layers have a weird mix of `en-us` and `hr` layout.
 
-The best part is, now all US-centric Mac shortcuts actually work, including `cmd + [/]` for back/forward.
+As an added bonus, all dead keys are converted to standard outputs.
+
+All US-centric Mac shortcuts actually work, including `cmd + [/]` for back/forward.
 
 A .dmg is included for easier installation.
 
 ## Layout reference
-### default
-![default](/reference/default.png)
-### shift
-![shift](/reference/shift.png)
-### alt
-![alt](/reference/alt.png)
-### alt+shift
-![alt_shift](/reference/alt_shift.png)
-### cmd
-![cmd](/reference/cmd.png)
-### ctrl
-![ctrl](/reference/ctrl.png)
-### ctrl+shift
-![ctrl_shift](/reference/ctrl_shift.png)
+![](/reference/pok3r-1.png)
+![](/reference/pok3r-2.png)
+![](/reference/pok3r-3.png)

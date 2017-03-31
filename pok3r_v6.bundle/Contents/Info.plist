@@ -5,13 +5,13 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.pok3r</string>
 	<key>CFBundleName</key>
-	<string>pok3r_v5</string>
+	<string>pok3r_v6</string>
 	<key>CFBundleVersion</key>
 	<string>1.2</string>
-	<key>KLInfo_pok3r_v5</key>
+	<key>KLInfo_pok3r_v6</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.pok3r.pok3r_v5</string>
+		<string>org.sil.ukelele.keyboardlayout.pok3r.pok3r_v6</string>
 		<key>TISIntendedLanguage</key>
 		<string>hr</string>
 	</dict>
