@@ -7,6 +7,20 @@ That includes keeping the `altGr` layer and the Croatian diacritical characters 
 The standard and shift layers are the same as on a Croatian PC layout. The `ctrl` and `cmd` layer behave like the en-us keyboard, including the switched `Z` and `Y` keys for easier undo / redo.
 The `alt/opt` and the `alt/opt + shift` layers have a weird mix of `en-us` and `hr` layout.
 
-Screenshots will be added soon. Until then, I reccomend to use the keyboard viewer as a reference. You're probably already used to it as a PC user.
-
 A .dmg is included for easier installation.
+
+## Layout reference
+### default
+![default](/reference/default.png)
+### shift
+![shift](/reference/shift.png)
+### alt
+![alt](/reference/alt.png)
+### alt+shift
+![alt_shift](/reference/alt_shift.png)
+### cmd
+![cmd](/reference/cmd.png)
+### ctrl
+![ctrl](/reference/ctrl.png)
+### ctrl+shift
+![ctrl_shift](/reference/ctrl_shift.png)
