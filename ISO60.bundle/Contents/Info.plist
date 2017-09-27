@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.pok3r</string>
+	<string>org.sil.ukelele.keyboardlayout.iso60</string>
 	<key>CFBundleName</key>
-	<string>pok3r_v6</string>
+	<string>ISO60</string>
 	<key>CFBundleVersion</key>
-	<string>1.2</string>
-	<key>KLInfo_pok3r_v6</key>
+	<string>2.0</string>
+	<key>KLInfo_ISO60</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.pok3r.pok3r_v6</string>
+		<string>org.sil.ukelele.keyboardlayout.iso60.iso60</string>
 		<key>TISIntendedLanguage</key>
 		<string>hr</string>
 	</dict>
