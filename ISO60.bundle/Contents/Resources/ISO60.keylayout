@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.1.161 on 2017-09-29 at 10:17 (CEST)-->
+<!--Last edited by Ukelele version 3.2.1.161 on 2017-09-29 at 10:53 (CEST)-->
 <keyboard group="126" id="-2797" name="iso60" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -198,7 +198,7 @@
 			<key code="46" output="M"/>
 			<key code="47" output=":"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=""/>
+			<key code="49" output=" "/>
 			<key code="50" output="~"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
@@ -314,7 +314,7 @@
 			<key code="46" output="µ"/>
 			<key code="47" output="≥"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=""/>
+			<key code="49" output=" "/>
 			<key code="50" output=""/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
@@ -537,7 +537,7 @@
 			<key code="46" output="M"/>
 			<key code="47" output=":"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=""/>
+			<key code="49" output=" "/>
 			<key code="50" output="~"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
@@ -767,7 +767,7 @@
 			<key code="46" output=""/>
 			<key code="47" output="&#x003E;"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=" "/>
+			<key code="49" output=" "/>
 			<key code="50" output=""/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
