@@ -12,4 +12,4 @@ As an added bonus, all dead keys are converted to standard outputs and all brack
 
 1. Copy the `.bundle` to `/Library/Keyboard Layouts/`.
 2. Restart your Mac.
-3. Run `sudo touch /Library/Keyboard Layouts/`.
+3. Run `sudo touch "/Library/Keyboard Layouts/"`.
