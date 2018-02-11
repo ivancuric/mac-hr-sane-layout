@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.1.161 on 2018-02-11 at 13:19 (CET)-->
+<!--Last edited by Ukelele version 3.2.1.161 on 2018-02-11 at 13:51 (CET)-->
 <keyboard group="126" id="-2797" name="iso60" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
