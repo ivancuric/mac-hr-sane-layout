@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.iso60v2</string>
 	<key>CFBundleName</key>
 	<string></string>
 	<key>CFBundleVersion</key>
@@ -11,7 +11,7 @@
 	<key>KLInfo_iso60v2</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..iso60v2</string>
+		<string>org.sil.ukelele.keyboardlayout.iso60v2.iso60v2</string>
 		<key>TISIntendedLanguage</key>
 		<string>hr</string>
 	</dict>
