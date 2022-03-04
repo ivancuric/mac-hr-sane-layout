@@ -4,7 +4,7 @@ A Mac keyboard layout for Croatian PC users with some extra bells and whistles. 
 The basic idea is to not screw up your muscle memory, while being more mac (US, that is) and programmer-friendly.
 That includes keeping the `altGr` layer and the Croatian diacritical characters (šđčćž) where they were.
 
-The standard and shift layers are the same as on a Croatian PC layout. The `cmd` layer has switched `Z` and `Y` keys for easier undo / redo.
+The standard and shift layers are the same as on a Croatian PC layout. The `cmd` layer switches the rest of the keyboard to the EN_US layout so that keyboard shortcuts which use characters like `[`, `\` etc work properly.
 
 As an added bonus, all dead keys are converted to standard outputs and all brackets are available on the `altGr` layer on the right side for single-hand usage.
 
